@@ -1,6 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I’m currently working on the NEATtactics-project at Cogito NTNU.
+- 🔭 I'm currently working on the [DeepTactics Muzero project](https://github.com/CogitoNTNU/DeepTactics-Muzero) at Cogito NTNU.
+- Proud contributor to the `pyenv` project:
+    - https://github.com/pyenv/pyenv/releases/tag/v2.5.0
+    - https://github.com/pyenv/pyenv/releases/tag/v2.5.3
+
+I hate bloat.
+
 <!--
 **ChristianFredrik69/ChristianFredrik69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
