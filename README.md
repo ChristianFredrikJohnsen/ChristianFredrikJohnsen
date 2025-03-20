@@ -7,6 +7,11 @@
 
 I hate bloat.
 
+By the way, open source is cool. The mentality which exists there should be applied elsewhere as well 😄
+    - Either you follow the guidelines or GTFO.
+
+Be real guys (and girls) 👍👍 😜
+
 <!--
 **ChristianFredrik69/ChristianFredrik69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
