@@ -5,7 +5,7 @@
 I hate bloat.
 
 By the way, open source is cool. The mentality which exists there should be applied elsewhere as well 😄
-    - Either you follow the guidelines or GTFO.
+- Either you follow the guidelines or ... work on yourself 😯
 
 Be real guys and girls 👍👍 😜
 
