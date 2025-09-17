@@ -1,4 +1,4 @@
-- Proud contributor to the `pyenv` project:
+- Contributor to the `pyenv` project:
     - https://github.com/pyenv/pyenv/releases/tag/v2.5.0
     - https://github.com/pyenv/pyenv/releases/tag/v2.5.3
 
