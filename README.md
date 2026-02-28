@@ -5,5 +5,6 @@
 Open source is cool.
 
 Currently sponsoring https://github.com/hyprwm/Hyprland
+- https://github.com/hyprwm/Hyprland/pull/13399
 
 Have fun 😜
